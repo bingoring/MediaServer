@@ -1,0 +1,11 @@
+{
+    "pg": {
+        "host": "localhost",
+        "port": 5432,
+        "protocol": "postgres",
+        "user": "tatum",
+        "passwd": "561ec46a839a65810be3d5d46f",
+        "database": "database",
+        "queryTimeout": 15000
+    }
+}
